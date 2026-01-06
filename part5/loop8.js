@@ -7,7 +7,7 @@ let cityname = ["London","Newyork","Paris","Berlin"]
 let visitedcities = []
 
 for(let i = 0; i < cityname.length; i++){
-    if(cityname[i] === "Paris"){
+    if(cityname[i] === "Paris"|| cityname[i]=== "paris" ){
         continue;
     }
     const takecitie = cityname[i] 

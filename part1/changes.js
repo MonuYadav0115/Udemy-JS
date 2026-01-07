@@ -1,10 +1,14 @@
-let gameName = "Spiderman"
-gameName ="Batman"
-console.log(gameName)
 
+
+let gameName = "Spiderman"
+gameName = "Batman"
+// console.log(gameName)
+
+// its let and const pros and const let is changeable and const is not changeable 
 
 const username ="monuyadav"
 
+
 username = "monu"
 
-console.log(username)
+console.log(username1)

@@ -3,7 +3,7 @@ let usrename = {
     isloggedin: true,
 };
 
-usrename.firstname ="Mr. m";
+usrename.firstname ="Mr. zentrox"; // change the value monu replace to zentrox
 usrename.lastname = "yadav";
 
 // console.log(usrename.firstname);
@@ -13,18 +13,18 @@ usrename.lastname = "yadav";
 
 
 let today = new Date();
-// console.log(today);
-// console.log(today.getDate());
+// console.log(today);               // 2026-01-07T08:21:13.795Z
+// console.log(today.getDate());      // today date like (7)
 
 // Array 
 
 let anotheruser = ["Monu", true]
 
-// console.log(anotheruser[0]);
+// console.log(anotheruser);
 
 let isvalues = true;
 
-console.log(isvalues + 1);
+// console.log(isvalues + 1);
 
 
 

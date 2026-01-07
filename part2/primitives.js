@@ -12,10 +12,14 @@ let anotherbalence = new Number (120);
 
 let isactive = true;
 
+// console.log(isactive);
+
+
 
 // null and undifined 
 
 let firstname;
+
 // console.log(firstname);
 
 let secondname = null;
@@ -25,11 +29,12 @@ let secondname = null;
 // string 
 
 let mystring = "Hello";
-let mystringone = 'hola';
+let mystringone = 'zentrox';
 let username = 'Monu';
 
 
 let oldgreet = mystring +" " +'Monu';
+
 // console.log(oldgreet);
 
 
@@ -39,7 +44,9 @@ let demoOne = `Value is ${2*2}`;
 
 let sm1 = Symbol();
 let sm2 = Symbol();
-console.log(sm1);
+
+// console.log(sm1);
+// console.log(typeof sm1);
 
 
 

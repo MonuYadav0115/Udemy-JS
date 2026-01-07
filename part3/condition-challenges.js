@@ -1,43 +1,48 @@
 let num1 = 5
 
 let num2 = 8
-/*
-console.log("I am a upper code ")
 
-if (num1 < num2){
+// console.log("I am a upper code ")
 
-    console.log("num1 is grater than num2 ");
+// if (num1 < num2){
+
+//     console.log("num2 is grater than num1 ");
     
-}else{
-    console.log("nope num1 is not greater than num2 ")
-}
-console.log("I am a regular code ")
-*/
+// }else{
+//     console.log("num2 is not greater than num1 ")
+// }
+// console.log("I am a regular code ")
+
 
 // cheaking if a string is equal to another string
 
-let username = "chai";
-let anotherusername = "chai";
 
-if ((username == anotherusername)){
 
-    // console.log("pick another usernmae ");
+// let username = "chai";
+// let anotherusername = "chai";
 
-}else{
-    // console.log("you can pick this username ");
-}
+// if ((username == anotherusername)){
+
+//     console.log("pick another usernmae ");
+
+// }else{
+//     console.log("you can pick this username ");
+// }
+
+
+
 
 // cheacking if a variable is a number or not :
 
 
-let score = "33";
+// let score = 33;
 
-if (typeof score === "Number"){
+// if ( score === "Number"){
 
-    // console.log("no that is a not number ");
-} else {
-    // console.log("Yep this is a not number");
-}
+//     console.log("no that is a not number ");
+// } else {
+//     console.log("Yes this is a not number");
+// }
 
 // cheacking if a boolean value is true or false 
 

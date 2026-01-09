@@ -42,5 +42,5 @@ console.log(multipleNumber)
 // this is like formula method for loop how its work
 
 for(let index = 0; index < array.length; index++){
-    let element = array[index] * 2
+    let element = array[index] 
 }

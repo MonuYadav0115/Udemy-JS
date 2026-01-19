@@ -18,8 +18,8 @@ let num2 = 8
 
 
 
-// let username = "chai";
-// let anotherusername = "chai";
+// let username = "Zentrox";
+// let anotherusername = "Zentrox";
 
 // if ((username == anotherusername)){
 
@@ -37,23 +37,26 @@ let num2 = 8
 
 // let score = 33;
 
-// if ( score === "Number"){
+// if ( typeof score == "number"){
 
-//     console.log("no that is a not number ");
+//     console.log("Yes this is number  ");
 // } else {
-//     console.log("Yes this is a not number");
+//     console.log("Yes this is not a number ");
 // }
+
+
+
 
 // cheacking if a boolean value is true or false 
 
 let isteaReady = true;
 
-if(isteaReady){
+// if(isteaReady){
 
-    // console.log("tea is ready ");
-} else {
-    // console.log("tea is not ready ");
-}
+//     console.log("tea is ready ");
+// } else {
+//     console.log("tea is not ready ");
+// }
 
 
 // cheacking if an array is empty or not 
@@ -64,7 +67,7 @@ console.log(items);
 
 if(items.length === 0){
 
-    console.log("this ia a empty array ")
+    console.log("this is a empty array ")
 
 }else{
     console.log("this is a array")

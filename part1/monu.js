@@ -3,8 +3,8 @@
 // process.stdout.write("chai")
 // process.stdout.write("chai")
 
-console.table({city:"Bhopal",name: "Zentrox" })
-console.table({city:"Bhopal"})
+console.table({city:"Hyderabad",name: "Zentrox" })
+console.table({city:"Hyderabad"})
 
 
 

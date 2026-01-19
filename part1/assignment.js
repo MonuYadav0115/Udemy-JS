@@ -27,7 +27,7 @@ let num7 = 20;
  
 let all = num6 - num7
 
-console.log(all);
+// console.log(all);
 
 
 

@@ -1,10 +1,11 @@
+
 let usrename = {
     firstname: "MonuYadav",
     isloggedin: true,
 };
 
 usrename.firstname ="Mr. zentrox"; // change the value monu replace to zentrox
-usrename.lastname = "yadav";
+usrename.lastname = "Bravix";
 
 // console.log(usrename.firstname);
 // console.log(usrename.lastname);
@@ -20,11 +21,11 @@ let today = new Date();
 
 let anotheruser = ["Monu", true]
 
-// console.log(anotheruser);
+console.log(anotheruser);          // [ 'Monu', true ] 
 
 let isvalues = true;
 
-// console.log(isvalues + 1);
+console.log(isvalues + 1);         // 2 
 
 
 

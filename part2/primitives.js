@@ -4,8 +4,8 @@ let balence = 120;
 
 let anotherbalence = new Number (120);
 
-// console.log(typeof balence);
-// console.log(typeof anotherbalence);
+// console.log(typeof balence);         // Number 
+// console.log(typeof anotherbalence);  // Object 
 
 
 // boolean 
@@ -43,10 +43,10 @@ let demoOne = `Value is ${2*2}`;
 
 
 let sm1 = Symbol();
-let sm2 = Symbol();
 
-// console.log(sm1);
-// console.log(typeof sm1);
+
+console.log(sm1);
+console.log(typeof sm1);
 
 
 
